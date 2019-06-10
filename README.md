@@ -1,4 +1,5 @@
-# android-navi-quick-start
+<<<<<<< HEAD
+# 一键导航和拖拽选址
 综合使用搜索和导航实现导航到周边餐馆功能示例
 ## 前述 ##
 - [高德官网申请Key](http://lbs.amap.com/dev/#/).
@@ -90,3 +91,7 @@
         mAMapNavi.calculateDriveRoute(startList, endList, wayList, strategyFlag);
     }
 ```
+=======
+# Navi
+基于高德地图 一键导航和 拖拽选址（仿摩拜单车大头针拖拽选址）
+>>>>>>> 10e844d20a7d66394a3f36f4ffe659a91546d6cd
